@@ -1,8 +1,7 @@
 #inlcude <iostream>
 using namespace std;
-
 int main(){
-
-  cou << "hello";
+  cout << "hello";
+  cout << "world";
   return 0;
 }
